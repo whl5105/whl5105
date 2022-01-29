@@ -1,6 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header) -->
 
-### Hi 👋 i'm Suin Choi
 
 ## About Me
 :star2: positive | Humility | Active
