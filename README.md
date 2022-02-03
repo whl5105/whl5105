@@ -1,8 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header) -->
 
 
-<br>
-<br>
 ## Skills(Languages & Tools)
 
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
