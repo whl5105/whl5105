@@ -18,8 +18,8 @@
   </a>
   <br/>
   <a>
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/>
   </a>
 
