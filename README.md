@@ -7,6 +7,11 @@
   <a href="https://suinchoi.tistory.com">
       <img src="http://img.shields.io/badge/-❤️ Blog-655ced?style=flatb&link=https://alpox.kr"/>
   </a>
+  <a href="https://puzzled-empress-d3f.notion.site/Resume-ef5596352a31495f8f37175e3f6d645d">
+      <img src="http://img.shields.io/badge/-❤️ Notion-655ced?style=flatb&link=https://alpox.kr"/>
+  </a>
+
+  
   
   
   <h3>🛠 Skills(Languages & Tools)🛠</h3>
